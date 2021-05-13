@@ -1,0 +1,4 @@
+#!/bin/sh
+
+ln -s /home/david/src/dotfiles/gitconfig/gitignore ~/.gitignore
+ln -s /home/david/src/dotfiles/gitconfig/gitconfig ~/.gitconfig

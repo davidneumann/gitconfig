@@ -1,0 +1,6 @@
+[user]
+	name = David Neumann
+	email = davidjneumann@gmail.com
+[core]
+	excludesFile = ~/.gitignore
+	editor = vim
