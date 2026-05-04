@@ -3,6 +3,6 @@
 	email = davidjneumann@gmail.com
 [core]
 	excludesFile = ~/.gitignore
-	editor = vim
+	editor = nvim
 [pull]
 	rebase = false
